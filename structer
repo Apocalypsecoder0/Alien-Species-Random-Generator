@@ -1,0 +1,10 @@
+/alien-generator
+    ├── index.php
+    ├── login.php
+    ├── logout.php
+    ├── settings.php
+    ├── generate_species.php
+    ├── db.php
+    ├── style.css
+    └── js/
+        └── script.js
